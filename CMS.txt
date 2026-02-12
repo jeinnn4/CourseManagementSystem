@@ -1,1 +1,2 @@
 Welcome to course management system
+Text from collaborator in another branch.
