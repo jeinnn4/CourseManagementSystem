@@ -1,2 +1,7 @@
 Welcome to course management system
+<<<<<<< SoraBranch
 Text from collaborator in another branch.
+=======
+Exam schedules will be uploaded here
+"New line from local" 
+>>>>>>> main
